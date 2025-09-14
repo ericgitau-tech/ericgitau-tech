@@ -58,7 +58,7 @@
 ---
 
 ### 🌟 Highlight Project  
-📌 [AWS Cloud Networking Series](https://github.com/eric-gitau01/aws-cloud-networking-series)  
+📌 [AWS Cloud Networking Series](https://github.com/Eric-Gitau01/AWS_Networking_Series)  
 _A hands-on series covering VPCs, Subnets, Security, Peering, Endpoints, and Monitoring._  
 
 ---
