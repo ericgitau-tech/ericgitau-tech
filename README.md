@@ -23,7 +23,7 @@
 
 ## 🎯 Professional Summary
 
-**AWS Certified Cloud Practitioner** and **AWS re/Start Graduate (May 2025)** specializing in cloud infrastructure design, automation, and site reliability engineering. Building production-ready solutions with focus on networking, security, and monitoring best practices.
+**AWS Certified Cloud Practitioner** and **AWS re/Start Graduate (Aug 2025)** specializing in cloud infrastructure design, automation, and site reliability engineering. Building production-ready solutions with focus on networking, security, and monitoring best practices.
 
 <div align="center">
 
