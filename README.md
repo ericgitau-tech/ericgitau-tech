@@ -99,8 +99,8 @@ Automate:    CloudFormation, Systems Manager
 ### 🎯 [AWS Security Series](https://github.com/Eric-Gitau01/AWS-Security-Series.git)
 > Hands-on security projects focusing on IAM, encryption (KMS), threat detection (GuardDuty), secrets management, and monitoring
 
-###  🎯 [Three-Tier Web App Series](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git)  
-> Serverless web application projects using CloudFront for website delivery, Lambda + API Gateway for APIs, and multi-tier architecture with dynamic data fetching. *(Project in progress)*
+###  🎯 [Three-Tier Web App Series](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git)  *(Project in progress)*
+> Serverless web application projects using CloudFront for website delivery, Lambda + API Gateway for APIs, and multi-tier architecture with dynamic data fetching. 
 
 
 <div align="center">
