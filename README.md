@@ -96,8 +96,11 @@ Automate:    CloudFormation, Systems Manager
 ### 🎯 [AWS Databases Series](https://github.com/Eric-Gitau01/Aws-databases-series)  
 > Practical database projects covering relational (Aurora MySQL) and NoSQL (DynamoDB) on AWS  
 
-### 🎯 [AWS Security Series](https://github.com/Eric-Gitau01/AWS-Security-Series.git)  (in progress)
-> Hands-on security projects focusing on IAM, encryption (KMS), threat detection (GuardDuty), secrets management, and monitoring  
+### 🎯 [AWS Security Series](https://github.com/Eric-Gitau01/AWS-Security-Series.git)
+> Hands-on security projects focusing on IAM, encryption (KMS), threat detection (GuardDuty), secrets management, and monitoring
+
+###  🎯 [Three-Tier Web App Series](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git)  
+> Serverless web application projects using CloudFront for website delivery, Lambda + API Gateway for APIs, and multi-tier architecture with dynamic data fetching. *(Project in progress)*
 
 
 <div align="center">
