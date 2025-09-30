@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eric Gitau
 
 <div align="center">
-  <h2>☁️ Cloud Engineer | AWS Certified | DevOps & Site Reliability Enthusiast</h2>
+  <h2>☁️ Cloud Engineer | AWS Certified t</h2>
   <p><strong>Building Scalable Cloud Infrastructure & Automating Everything</strong></p>
   
   <p align="center">
