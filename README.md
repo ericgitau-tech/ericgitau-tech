@@ -46,7 +46,7 @@ I thrive in collaborative environments, love solving technical problems, and con
 ### [AWS Security Series](https://github.com/Eric-Gitau01/AWS-Security-Series.git)  
 🔹 Implemented IAM policies, encryption (KMS), and threat detection using GuardDuty and CloudTrail.
 
-### [Three-Tier Web App Project](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git) *(In Progress)*  
+### [Containers & Compute](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git) *(In Progress)*  
 🔹 Building a scalable web app using **CloudFront, Lambda, API Gateway, and RDS** for a serverless, production-ready setup.
 
 ---
