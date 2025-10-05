@@ -47,8 +47,17 @@ I thrive in collaborative environments, love solving technical problems, and con
 🔹 Implemented IAM policies, encryption (KMS), and threat detection using GuardDuty and CloudTrail.
 
 ### [Containers & Compute](https://github.com/Eric-Gitau01/Aws-three-tier-webapp.git) *(In Progress)*  
-🔹 Building a scalable web app using **CloudFront, Lambda, API Gateway, and RDS** for a serverless, production-ready setup.
+🔹Exploring **containerization and serverless computing** with Docker, Kubernetes, and AWS Lambda.    
 
+APIs with Lambda + API Gateway
+Fetch Data with AWS Lambda
+Build a Three-Tier Web App
+Deploy an App with Docker
+Deploy an App Across Accounts
+Launch a Kubernetes Cluster
+Set Up Kubernetes Deployment
+Create Kubernetes Manifests
+Deploy Backend with Kubernetes
 ---
 
 ## 🎓 Education  
