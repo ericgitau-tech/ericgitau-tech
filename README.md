@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eric Gitau
 
-### ☁️ AWS Certified Cloud Engineer | IT Support & Infrastructure | Linux, Python & Networking | Infrastructure Automation & DevOps Enthusiast | Open to Junior & Internship Opportunities
+### ☁️ AWS Certified Cloud Engineer | Web Developer | IT Support & Infrastructure | Linux, Python & Networking | DevOps & Automation Enthusiast | Open to Junior & Internship Opportunities
 
 *Designing Scalable Cloud Solutions • Automating Infrastructure • Ensuring Reliability* 
 
