@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Eric Gitau
 
-### ☁️ AWS Certified Cloud Engineer | Python Developer | DevOps Enthusiast
+### ☁️ AWS Certified Cloud Engineer | Python Developer | IT Support & Cloud Infrastructure | Linux & Networking | DevOps Enthusiast
 
 *Building Scalable Cloud Solutions & Efficient Python Applications* 
 
