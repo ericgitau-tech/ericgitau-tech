@@ -18,8 +18,7 @@
 
 I'm an AWS Certified Cloud Engineer and Python Developer passionate about building secure, scalable cloud infrastructure and robust applications. With expertise in AWS services, Python development, and infrastructure automation, I specialize in deploying production-ready solutions.
 
-**Open to:** Cloud Engineer | Python Developer | DevOps Engineer | Backend Developer roles
-
+**Open to:** Cloud Engineer | Python & Web Developer | Entry level DevOps Engineer roles
 ---
 
 ## 🏆 Certifications
