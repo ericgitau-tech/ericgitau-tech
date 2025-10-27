@@ -9,7 +9,7 @@ I’m a **passionate Cloud Engineer and Developer** with hands-on experience in 
 I enjoy designing **secure, scalable, and automated cloud solutions** that solve real-world challenges.
 
 🎯 My goal is to grow into a **Cloud Engineer**, contributing to projects that drive innovation and reliability.  
-Currently seeking **entry-level or internship opportunities** in **Cloud Engineering**, **Python $ web Development**, or **IT Support**.
+Currently seeking **entry-level or internship opportunities** in **Cloud Engineering**, **Python & web Development**, or **IT Support**.
 
 ---
 
