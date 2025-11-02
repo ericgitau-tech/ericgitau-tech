@@ -5,10 +5,10 @@
 
 ### 🚀 About Me
 
-I’m a **passionate Cloud Engineer and Developer** with hands-on experience in **AWS services**, **Python programming**, and **IT infrastructure**.  
+I’m a **passionate Cloud Engineer and Developer** skilled in **AWS services**, **Python programming**, and **IT infrastructure**.  
 I enjoy designing **secure, scalable, and automated cloud solutions** that solve real-world challenges.
 
-🎯 My goal is to grow into a **Cloud Engineer**, contributing to projects that drive innovation and reliability.  
+🎯 My mission is to grow into a **Cloud Engineer**, contributing to projects that drive innovation, reliability, and efficiency.  
 Currently seeking **entry-level or internship opportunities** in **Cloud Engineering**, **Python & web Development**, or **IT Support**.
 
 ---
