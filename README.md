@@ -1,15 +1,18 @@
-<h1 align="center">👋 Hi, I'm Eric Gitau</h1>
-<h3 align="center">☁️ AWS Certified Cloud Engineer | 🐍 Python Developer | 💻 IT Support Specialist</h3>
+<h1 align="center">👋 Hi, I'm Eric (Ngaruiya) Gitau</h1>
+
+<p align="center">
+  <strong>AWS Cloud Engineer | Python Developer | Passionate about Cloud Automation, Infrastructure & DevOps</strong>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-I’m a **passionate Cloud Engineer and Developer** skilled in **AWS services**, **Python programming**, and **IT infrastructure**.  
-I enjoy designing **secure, scalable, and automated cloud solutions** that solve real-world challenges.
+I’m a **Cloud Engineer and Developer** passionate about creating secure, automated, and scalable solutions in the cloud.  
+Skilled in **AWS**, **Python**, and **Linux**, I enjoy solving real-world problems through cloud innovation and automation.
 
-🎯 My mission is to grow into a **Cloud Engineer**, contributing to projects that drive innovation, reliability, and efficiency.  
-Currently seeking **entry-level or internship opportunities** in **Cloud Engineering**, **Python & web Development**, or **IT Support**.
+🎯 My goal is to grow into a **Cloud Engineer / DevOps Engineer**, contributing to impactful and reliable cloud-based systems.  
+Currently seeking **junior or internship opportunities** in **Cloud Engineering**, **Python Development**, or **IT Support**.
 
 ---
 
@@ -77,8 +80,6 @@ Built a **Python CLI app** to manage income and expenses with **data validation*
 
 ### 🤝 Let’s Connect
 
-💬 Open to **junior**, **internship**, and **remote** roles in **Cloud Engineering**, **Python Development**, and **IT Support**.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/eric-gitau-234706240">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" />
@@ -97,4 +98,4 @@ Built a **Python CLI app** to manage income and expenses with **data validation*
 ---
 
 ⭐ *“Continuous learning is the key to unlocking innovation.”*  
-*— Eric Gitau*
+*— Eric (Ngaruiya) Gitau*
