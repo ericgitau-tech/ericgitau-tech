@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Eric (Ngaruiya) Gitau</h1>
+<h1 align="center">👋 Hi, I'm Eric Ngaruiya Gitau</h1>
 <p align="center">
   <strong>AWS Cloud Engineer | IT Support & Networking | Linux & Python Developer | DevOps & Cloud Automation</strong>
 </p>
