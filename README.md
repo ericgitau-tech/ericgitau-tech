@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Eric Ngaruiya Gitau</h1>
 <p align="center">
   <strong>AWS Cloud Engineer | IT Support & Networking | Linux & Python Developer | DevOps & Cloud Automation</strong>
-</p>
+</p> 
 
 <p align="center">
   <em>Building secure, scalable cloud infrastructure with a passion for automation and continuous innovation</em>
