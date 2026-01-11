@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eric Ngaruiya Gitau
 
-### Cloud & Automation Engineer | AWS, Python, Linux | AI & Infrastructure Automation
+### Cloud & Automation Engineer | AWS, Python, Linux, Networking | AI & Infrastructure Automation
 
 Building **secure, scalable cloud infrastructure** with a passion for **automation, AI, and continuous innovation**. I specialize in cloud engineering, DevOps practices, and Python-based automation.
 
