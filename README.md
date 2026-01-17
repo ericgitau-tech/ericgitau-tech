@@ -6,7 +6,7 @@ Building **secure, scalable cloud infrastructure** with a passion for **automati
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I am a **cloud and automation-focused technologist** with a strong foundation in **AWS, Linux, networking, and Python**. My hands-on experience spans AWS services such as **IAM, Lambda, CloudFormation, IoT, Glue, SageMaker, and AWS CLI**, gained through the **AWS re/Start program** and personal projects.  
 
