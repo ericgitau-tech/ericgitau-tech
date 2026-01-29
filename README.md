@@ -1,104 +1,133 @@
-# 👋 Hi, I'm Eric Ngaruiya Gitau
+# Eric Ngaruiya Gitau
 
-### Cloud & Automation Engineer | AWS, Python, Linux, Networking | AI & Infrastructure Automation
+**Cloud & Automation Engineer | AWS Certified | DevOps Enthusiast**
 
-Building **secure, scalable cloud infrastructure** with a passion for **automation, AI, and continuous innovation**. I specialize in cloud engineering, DevOps practices, and Python-based automation.
-
----
-
-## 🚀 About Me 
-
-I am a **cloud and automation-focused technologist** with a strong foundation in **AWS, Linux, networking, and Python**. My hands-on experience spans AWS services such as **IAM, Lambda, CloudFormation, IoT, Glue, SageMaker, and AWS CLI**, gained through the **AWS re/Start program** and personal projects.  
-
-Currently, I focus on:
-- **AI & Machine Learning foundations**
-- **Cloud & Infrastructure Automation**
-- **Python scripting & automation**
-- **Linux system administration & networking**
-
-I am actively building projects in **automation, AI, and cloud infrastructure**, aiming to grow into roles like **AI & Automation Engineer, Cloud/DevOps Engineer, AIOps Specialist, or Junior ML Engineer**.
+📍 Nairobi, Kenya | 📧 gitaueric09@example.com | 🔗 [LinkedIn](https://www.linkedin.com/in/eric-ngaruiya-gitau-27b157345/) | 🏅 [Credly](https://www.credly.com/users/eric-gitau.1554177c)
 
 ---
 
-## 🎓 Education
+## 👋 About Me
 
-**Kenyatta University** | *Expected Graduation: 2026*  
-Bachelor of Science in **Records Management & Information Technology**
+I'm a Cloud & Automation Engineer passionate about building scalable, secure cloud infrastructure. Currently pursuing a BSc in Records Management & IT at Kenyatta University (graduating 2027), I bring hands-on experience with AWS, Linux, Python automation, and enterprise networking.
 
----
-
-## 📜 Certifications
-
-| Certification | Issuing Organization | Year | Status |
-|---------------|--------------------|------|--------|
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025–2028 | ✅ Active |
-| **AWS re/Start Graduate** | Ajira Digital Program | 2025 | ✅ Completed |
-| **Introduction to Linux (LFS101)** | Linux Foundation | 2025 | ✅ Completed |
-| **Power Learn Project Certificate (Python & Web)** | PLP Africa | 2024 | ✅ Completed |
-| **Network Technician Career Path** | Cisco Networking Academy | 2025 | ✅ Completed |
+**I'm actively seeking opportunities in:**
+- ☁️ Cloud Engineering / Support
+- 🤖 AI & Automation
+- 🛠️ DevOps & Infrastructure
+- 💻 Software Development
 
 ---
 
-## 🛠️ Featured Projects
+## 🎓 Certifications
 
-### 🔐 [AWS Security Series](link-to-project)
-Hands-on implementations of AWS security best practices, including IAM policies, encryption, security groups, and compliance frameworks.
+- ✅ **AWS Certified Cloud Practitioner** (2025-2028)
+- 🎓 **AWS re/Start Graduate** - Amazon Web Services
+- 🌐 **Network Technician Career Path** - Cisco Networking Academy
+- 🐧 **Linux Foundation LFS101** - System Administration
+- 🐍 **Python Essentials 1 & 2** - Cisco
+- 💡 **Software Development Fundamentals** - PLP Academy
 
-### 💾 [AWS Databases Series](link-to-project)
-Exploration of AWS database services such as RDS, DynamoDB, Aurora, and migration strategies with practical examples.
-
-### 🌐 [AWS Networking Series](link-to-project)
-Deep dive into VPC design, subnets, route tables, NAT gateways, VPN connections, and hybrid cloud architectures.
+[📜 Verify all credentials](https://www.credly.com/users/eric-gitau.1554177c)
 
 ---
 
-## 💻 Technical Skills
+## 💼 Experience
 
-**Cloud & Infrastructure**
-- AWS: EC2, S3, VPC, IAM, Lambda, RDS, CloudFormation
-- Cloud Architecture & Design
+### ☁️ Cloud Computing Apprenticeship | AWS re/Start Program
+**Ajira AWS re/Start Community** | *May 2025 – Sep 2025*
+
+- Built production-grade AWS infrastructure using EC2, S3, Lambda, RDS, VPC, and CloudFormation
+- Implemented Infrastructure as Code (IaC) for automated cloud deployments
+- Configured secure cloud networks with VPCs, subnets, security groups, and NACLs
+- Developed Python automation scripts for cloud resource management
+- Practiced Linux system administration and troubleshooting
+
+### 🌐 Network Technician Training | Cisco Networking Academy
+**ICT Authority** | *Oct 2025 – Dec 2025*
+
+- Gained enterprise networking skills: design, configuration, and troubleshooting
+- Studied TCP/IP, routing protocols (OSPF, EIGRP), VLANs, and network security
+- Learned cloud-ready infrastructure integration and hybrid architectures
+- Earned verified Cisco digital badge
+
+### 💻 Software Development Apprenticeship | PLP Academy
+**PLP Academy** | *Aug 2024 – Jan 2025*
+
+- Built responsive web applications with HTML5, CSS3, JavaScript, and Node.js
+- Collaborated using Git & GitHub for version control
+- Developed full-stack development skills and RESTful API understanding
+
+---
+
+## 🛠️ Technical Skills
+
+**☁️ Cloud & Infrastructure**
+- AWS (EC2, S3, VPC, Lambda, RDS, IAM, CloudFormation, CloudWatch)
 - Infrastructure as Code (IaC)
-- Cloud Security & Compliance
+- Cloud Architecture & Security
+- High Availability & Disaster Recovery
 
-**DevOps & Automation**
-- CI/CD pipelines
-- Configuration Management
-- Containerization & Orchestration
-- Python & Bash Automation Scripts
+**⚙️ Programming & Automation**
+- Python, Bash Scripting
+- JavaScript, Node.js, SQL
+- Git & GitHub
+- JSON, YAML
 
-**Programming & Scripting**
-- Python
-- Bash
-- Web Development (HTML, CSS, JS)
+**🖥️ Systems & DevOps**
+- Linux (Ubuntu, Red Hat)
+- Docker, Terraform
+- CI/CD fundamentals
+- System Administration
 
-**Systems & Networking**
-- Linux System Administration
-- Network Configuration & Troubleshooting
-- IT Support & Helpdesk
-- Network Security
+**🌐 Networking**
+- Cisco Networking (TCP/IP, VLANs, Routing)
+- VPN, Firewalls, Network Security
+- Cloud Networking (VPC, Subnets)
+- Troubleshooting & Performance Optimization
+
+---
+
+## 🚀 Featured Projects
+
+### [AWS Networking Series](https://github.com/ericgitau-tech/AWS_Networking_Series.git)
+Comprehensive cloud networking implementation with focus on VPC design, advanced subnetting, route tables, NAT/Internet gateways, VPN configurations, and network security.
+
+**Tech Stack:** AWS VPC, CloudFormation, Python, Bash
+
+*🔜 More projects coming soon: AWS Security Series, Database Architecture & Optimization*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgitau-tech&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericgitau-tech&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericgitau-tech&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 What I'm Looking For
 
-I am always open to collaborating on **cloud projects, DevOps workflows, or AI initiatives**. Connect with me via:  
+I'm seeking **entry-level or internship opportunities** where I can:
+- ✨ Apply cloud engineering and automation skills
+- 🚀 Work with modern DevOps tools and practices
+- 🏗️ Contribute to innovative infrastructure projects
+- 📈 Learn from experienced engineers and grow professionally
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eric-ngaruiya-gitau-27b157345/)  
-- 📧 [Email](mailto:gitaueric09@example.com)  
-- 🌐 [Portfolio](your-portfolio-url)
+**Available for:** Remote | Hybrid | On-site (Nairobi, Kenya)  
+**Start Date:** Immediate ⚡
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-**💡 "The cloud is not just a technology; it's a mindset of continuous innovation."**  
+I'm open to discussing opportunities, collaborating on projects, or just connecting with fellow tech enthusiasts.
 
-⭐️ From [EricNgaruiya](https://github.com/ericgitau-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-ngaruiya-gitau-27b157345/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gitaueric09@example.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/eric-gitau.1554177c)
 
-</div>
+---
+
+*"Building the future, one cloud resource at a time." ☁️*
+
+⭐ *If you find my work interesting, consider starring my repositories!*
