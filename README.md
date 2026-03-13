@@ -1,6 +1,6 @@
 # Hi, I'm Eric Ngaruiya Gitau 👋
 
-### Cloud & Data Analyst · AWS Certified · Python, SQL & Automation
+## Cloud & DevOps Engineer | AWS | Linux | Python Automation | Networking | AI | Building Scalable Cloud Infrastructure
 
 📍 Nairobi, Kenya &nbsp;|&nbsp; 📧 gitaueric09@example.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/eric-ngaruiya-gitau-27b157345/) &nbsp;|&nbsp; 🏅 [Credly](https://www.credly.com/users/eric-gitau.1554177c)
 
@@ -8,7 +8,8 @@
 
 ## 👤 About Me
 
-Cloud & Automation Engineer with hands-on experience in AWS infrastructure, Linux systems, Python scripting, and foundational data analysis. Currently pursuing a BSc in Records Management & IT at Kenyatta University (2027). Graduate of AWS re/Start, Cisco Networking Academy, and PLP Academy. Experienced in working with cloud-based data systems, basic SQL querying, and analytical problem-solving to support data-driven decisions. Comfortable working across cloud, networking, software development, and emerging data analytics domains.
+Cloud & Automation Engineer with hands-on experience in AWS infrastructure, Linux systems, Python scripting, and networking fundamentals. Currently pursuing a BSc in Records Management & IT at Kenyatta University (expected 2027) and a graduate of AWS re/Start, Cisco Networking Academy, and PLP Academy. Passionate about building and automating scalable cloud infrastructure, improving system reliability, and applying DevOps practices to real-world projects. 
+
 
 ---
 
