@@ -1,9 +1,7 @@
-<div align="center"> 
+<div align="center">
 
 # Eric Ngaruiya Gitau
-
-### ☁️ Aspiring Cloud & DevOps Engineer — Nairobi, Kenya
-
+### ☁️ Cloud & DevOps Engineer — Nairobi, Kenya
 *"Turning infrastructure into code, and complexity into clarity."*
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -18,42 +16,46 @@
 
 ## About Me
 
-I'm a **4th-year BSc student in Records Management & IT** at Kenyatta University (graduating 2027), building a hands-on career in cloud and DevOps engineering. I hold the **AWS Certified Cloud Practitioner** credential, completed the **AWS re/Start Program**, and have a growing portfolio of infrastructure projects across AWS, Terraform, and Kubernetes.
+I'm a **final-year BSc student in Records Management & IT** at Kenyatta University (graduating 2027), building a hands-on career in cloud and DevOps engineering. I hold the **AWS Certified Cloud Practitioner** credential, completed the **AWS re/Start Program** (Emobilis Kenya), and maintain a growing portfolio of real-world infrastructure projects spanning AWS, Terraform, Kubernetes, and cloud security.
 
-My background in information systems gives me an edge in **cloud security and compliance** — areas I'm actively deepening alongside core DevOps skills.
+My background in information systems and data governance gives me a natural edge in **cloud compliance, security hardening, and information lifecycle management** — areas I'm actively deepening alongside core DevOps skills.
 
 **What I work with:**
 
-`AWS (EC2 · S3 · IAM · VPC · Lambda · RDS · CloudWatch)` · `Terraform` · `Kubernetes & Docker` · `Linux` · `Python & Bash` · `Cloud Networking` · `CI/CD`
+`AWS (EC2 · S3 · IAM · VPC · RDS · Lambda · CloudWatch · GuardDuty)` · `Terraform` · `Kubernetes & Docker` · `Linux (Ubuntu / Red Hat)` · `Python (boto3) & Bash` · `TCP/IP · VLANs · OSPF · VPN` · `CI/CD concepts` · `Git & GitHub`
 
 ---
 
 ## 🔨 Currently Working On
 
-- **30-Day Terraform Challenge** — Daily IaC labs: EC2, S3, auto scaling, modules, load balancers
-- **AWS Security Series** — Hands-on labs with IAM, KMS, GuardDuty, and Secrets Manager
-- Documenting all projects publicly on GitHub as I build them
+- **30-Day Terraform IaC Challenge** — Daily production-grade labs: VPCs, ALBs, Auto Scaling Groups, modules, remote state (S3 + DynamoDB)
+- **KodeKloud 100 Days of DevOps Challenge** — Linux, Git, Docker, Kubernetes, CI/CD, cloud automation
+- **AI Career Copilot** — Full-stack AI web app (React + Node.js/Express + LLM API) for career guidance and CV coaching
+- **Cloud Engineering Lab (20-Project Series)** — End-to-end AWS environments with IaC, containers, observability, and FinOps
 
 ## 🔭 Learning Next
 
 - AWS Solutions Architect Associate (SAA-C03)
 - CI/CD pipelines with GitHub Actions
 - HashiCorp Terraform Associate certification
+- Advanced Kubernetes (CKAD prep)
 
 ---
 
 ## 🏆 Certifications
 
-| Credential | Issuer |
-|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| AWS re/Start Graduate | Amazon Web Services |
-| Cisco Network Technician Career Path | Cisco Networking Academy |
-| Linux Essentials · Intro to Kubernetes · KCNA Essentials | Linux Foundation |
-| Python Essentials 1 & 2 | Cisco |
-| GitHub Copilot | Microsoft |
-| Software Development Fundamentals | PLP Academy |
-| Introduction to Cybersecurity | Cisco |
+| Credential | Issuer | Status |
+|---|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Active · Exp. Aug 2028 |
+| AWS re/Start Graduate | Amazon Web Services | ✅ Sep 2025 |
+| Intro to Kubernetes — LFS158 | Linux Foundation | ✅ Mar 2026 |
+| Cloud Native Essentials — LFS250 | Linux Foundation | ✅ Mar 2026 |
+| Introduction to Linux — LFS101 | Linux Foundation | ✅ Sep 2025 |
+| Network Technician Career Path | Cisco Networking Academy | ✅ Nov 2025 |
+| Python Essentials 1 & 2 | Cisco | ✅ Jan–Mar 2026 |
+| Introduction to Cybersecurity | Cisco | ✅ Apr 2026 |
+| GitHub Copilot | Microsoft | ✅ Apr 2026 |
+| AWS AI Practitioner — AIF-C01 Prep | Amazon Web Services | ✅ Apr 2026 |
 
 🔗 [View all verified credentials on Credly →](https://www.credly.com/users/eric-gitau.1554177c)
 
@@ -61,18 +63,41 @@ My background in information systems gives me an edge in **cloud security and co
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What I Built | Stack |
 |---|---|---|
-| [AWS Networking Series](https://github.com/ericgitau-tech/AWS_Networking_Series) | VPC architecture, subnets, NAT, routing, security groups | `VPC` `CloudFormation` `Bash` |
-| [AWS Security Series](https://github.com/ericgitau-tech/AWS-Security-Series) | IAM hardening, KMS, GuardDuty, CloudWatch logging | `IAM` `KMS` `GuardDuty` |
-| [AWS Databases Series](https://github.com/ericgitau-tech/Aws-databases-series) | RDS, Aurora, DynamoDB — deployment and querying | `RDS` `DynamoDB` `MySQL` |
-| 30-Day Terraform Challenge *(in progress)* | Daily IaC labs from foundations to production patterns | `Terraform` `HCL` `AWS` |
+| [Cloud Engineering Lab](https://github.com/ericgitau-tech/cloud-engineering-lab) | 20-project AWS series: IaC, containers, CI/CD, Kubernetes, observability, FinOps — each with architecture docs | `AWS` `Terraform` `Docker` `K8s` |
+| [AWS Security Series](https://github.com/ericgitau-tech/AWS-Security-Series) | IAM least-privilege policies, KMS encryption, GuardDuty threat detection, Secrets Manager, real-time CloudWatch alerts | `IAM` `KMS` `GuardDuty` `CloudWatch` |
+| [AWS Networking Series](https://github.com/ericgitau-tech/AWS_Networking_Series) | Full VPC environments: public/private subnets, NAT gateways, VPC peering, Flow Logs, layered defence-in-depth | `VPC` `NAT` `Security Groups` `Bash` |
+| [AWS Databases Series](https://github.com/ericgitau-tech/Aws-databases-series) | Deployed & hardened RDS, Aurora, DynamoDB; SQL querying, access control, QuickSight reporting | `RDS` `DynamoDB` `Aurora` `MySQL` |
+| [30-Day Terraform Challenge](https://github.com/ericgitau-tech/30-daysterraform-challenge) | Daily IaC builds: modules, variables, remote state backends, multi-region deployments | `Terraform` `HCL` `AWS` |
+| AI Career Copilot *(in progress)* | Full-stack AI web app for career guidance, CV improvement, and interview prep — deployed on cloud hosting | `React` `Node.js` `Express` `LLM API` |
+
+---
+
+## 💼 Experience
+
+**Cloud Engineering Apprentice** · AWS re/Start Program · Emobilis Kenya *(May – Sep 2025)*
+> 5-month intensive covering AWS infrastructure, Linux system administration, networking, security, and Python automation. Provided peer technical support during lab sessions — troubleshooting connectivity and configuration issues for team members.
+
+**Network Technician** · Cisco Networking Academy · ICT Authority Kenya *(Oct – Dec 2025)*
+> TCP/IP, VLANs, OSPF routing, and VPN configuration. Applied structured troubleshooting methodologies and bridged on-premise networking with cloud VPC design.
+
+**Software Development Apprentice** · PLP Academy *(Aug 2024 – Jan 2025)*
+> Built web applications using HTML, CSS, JavaScript, and Node.js. Practised Git-based collaborative version control and agile team workflows.
+
+---
+
+## 🎓 Education
+
+**BSc Records Management & Information Technology** · Kenyatta University, Nairobi · *Expected 2027*
+
+Relevant coursework: Information Systems Management · Data Governance · Digital Records Administration · Database Management · IT Infrastructure · Health Data & Welfare Information Services
 
 ---
 
 ## 🌍 Community
 
-Active in: **AWS User Group Kenya** · **HashiCorp User Group** · **EveOps Community** · **Kubernetes African Developer Program**
+Active in: **AWS User Group Kenya** · **HashiCorp User Group Nairobi** · **EveOps Community** · **Kubernetes African Developer Program**
 
 ---
 
@@ -83,5 +108,6 @@ Active in: **AWS User Group Kenya** · **HashiCorp User Group** · **EveOps Comm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-ngaruiya-gitau-27b157345/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitaueric09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericgitau-tech)
+[![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/eric-gitau.1554177c)
 
 </div>
